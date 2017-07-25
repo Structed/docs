@@ -85,9 +85,9 @@ The .NET Framework, through configuration files, gives developers and administra
   
      Visual Studio automatically copies the source configuration file to the directory where the compiled assembly is placed to create the output configuration file, which is deployed with the app. In some cases, Visual Studio may modify the output configuration file; for more information, see the [Redirecting assembly versions at the app level](../../../docs/framework/configure-apps/redirect-assembly-versions.md#BKMK_Redirectingassemblyversionsattheapplevel) section of the [Redirecting Assembly Versions](../../../docs/framework/configure-apps/redirect-assembly-versions.md) article.  
   
--   ASP.NET-hosted app.  
+-   ASP.NET Core-hosted app.  
   
-     For more information about ASP.NET configuration files, see [ASP.NET Configuration Settings](http://msdn.microsoft.com/en-us/116608f3-c03d-4413-9fc7-978703e18b0f)  
+     For more information about ASP.NET Core configuration files, see [ASP.NET Core Configuration Fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)  
   
 -   Internet Explorer-hosted app.  
   
